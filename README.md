@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: My favorite movie is Inception.
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://m.media-amazon.com/images/M/MV5BMTM0MjUzNjkwMl5BMl5BanBnXkFtZTcwNjY0OTk1Mw@@._V1_.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://m.media-amazon.com/images/M/MV5BMTM0MjUzNjkwMl5BMl5BanBnXkFtZTcwNjY0OTk1Mw@@._V1_.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://m.media-amazon.com/images/M/MV5BMTM0MjUzNjkwMl5BMl5BanBnXkFtZTcwNjY0OTk1Mw@@._V1_.jpg">
+ <source width="702" height="1024" media="(prefers-color-scheme: dark)" srcset="https://m.media-amazon.com/images/M/MV5BMTM0MjUzNjkwMl5BMl5BanBnXkFtZTcwNjY0OTk1Mw@@._V1_.jpg">
+ <source width="702" height="1024" media="(prefers-color-scheme: light)" srcset="https://m.media-amazon.com/images/M/MV5BMTM0MjUzNjkwMl5BMl5BanBnXkFtZTcwNjY0OTk1Mw@@._V1_.jpg">
+ <img  width="702" height="1024" alt="YOUR-ALT-TEXT" src="https://m.media-amazon.com/images/M/MV5BMTM0MjUzNjkwMl5BMl5BanBnXkFtZTcwNjY0OTk1Mw@@._V1_.jpg">
 </picture>
 
 😎 Interests: AI, machine learning, weightlifting, video games, handball.
