@@ -20,6 +20,17 @@ Here are some ideas to get you started:
 
 😄 Pronouns: He/him
 
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Java      |
+|     2| C         |
+|     3| Python    |
+  
+</details>
+
 ⚡ Fun fact: My favorite movie is Inception.
 <br>
 <picture>
