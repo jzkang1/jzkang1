@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me:
 📫 Email: jerrykang100@gmail.com OR jerry.kang@stonybrook.edu
+📫 Linkedin: https://www.linkedin.com/in/jerry-kang-6098ab19b/
 
 😄 Pronouns: He/him
 
