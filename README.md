@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 😄 Pronouns: He/him
 
-<details>
+<details open>
 <summary>My top languages</summary>
 
 | Rank | Languages |
