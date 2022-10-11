@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 How to reach me:
-📫 Email: jerrykang100@gmail.com OR jerry.kang@stonybrook.edu
-📫 Linkedin: https://www.linkedin.com/in/jerry-kang-6098ab19b/
+📫 How to reach me: <br>
+📫 Email: jerrykang100@gmail.com OR jerry.kang@stonybrook.edu <br>
+📫 Linkedin: https://www.linkedin.com/in/jerry-kang-6098ab19b/ <br>
 
 😄 Pronouns: He/him
 
