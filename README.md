@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 😄 Pronouns: He/him
 
 ⚡ Fun fact: My favorite movie is Inception.
+<br>
 <picture>
  <source width="351" height="512" media="(prefers-color-scheme: dark)" srcset="https://m.media-amazon.com/images/M/MV5BMTM0MjUzNjkwMl5BMl5BanBnXkFtZTcwNjY0OTk1Mw@@._V1_.jpg">
  <source width="351" height="512" media="(prefers-color-scheme: light)" srcset="https://m.media-amazon.com/images/M/MV5BMTM0MjUzNjkwMl5BMl5BanBnXkFtZTcwNjY0OTk1Mw@@._V1_.jpg">
