@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Jerry
 
 <!--
 **jzkang1/jzkang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I'm currently learning machine learning.
+
+📫 How to reach me:
+📫 Email: jerrykang100@gmail.com OR jerry.kang@stonybrook.edu
+
+😄 Pronouns: He/him
+
+⚡ Fun fact: My favorite ice cream flavor is chocolate.
+
+😎 Interests: AI, machine learning, weightlifting, video games, handball.
