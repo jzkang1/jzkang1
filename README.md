@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I'm currently learning machine learning.
-
 📫 How to reach me:
 📫 Email: jerrykang100@gmail.com OR jerry.kang@stonybrook.edu
 
 😄 Pronouns: He/him
 
-⚡ Fun fact: My favorite ice cream flavor is chocolate.
+⚡ Fun fact: My favorite movie is Inception.
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://m.media-amazon.com/images/M/MV5BMTM0MjUzNjkwMl5BMl5BanBnXkFtZTcwNjY0OTk1Mw@@._V1_.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://m.media-amazon.com/images/M/MV5BMTM0MjUzNjkwMl5BMl5BanBnXkFtZTcwNjY0OTk1Mw@@._V1_.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://m.media-amazon.com/images/M/MV5BMTM0MjUzNjkwMl5BMl5BanBnXkFtZTcwNjY0OTk1Mw@@._V1_.jpg">
+</picture>
 
 😎 Interests: AI, machine learning, weightlifting, video games, handball.
