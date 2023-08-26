@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 | Rank | Languages |
 |-----:|-----------|
 |     1| Java      |
-|     2| C         |
-|     3| Python    |
+|     2| Python    |
+|     3| C         |
   
 </details>
 
