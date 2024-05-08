@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <details open>
 <summary>My top languages</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Java      |
-|     2| Python    |
-|     3| C         |
+| Rank | Languages  |
+|-----:|------------|
+|     1| Java       |
+|     2| Javascript |
+|     3| Python     |
   
 </details>
 
