@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   
 </details>
 
-😎 Interests: AI, machine learning, weightlifting, video games, handball.
+😎 Interests: machine learning, weightlifting, video games, cooking, handball.
 
 ⚡ Fun fact: My favorite movie is Inception.
 <br>
