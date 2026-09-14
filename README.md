@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me: <br>
 📫 Email: jerrykang100@gmail.com<br>
-📫 Linkedin: https://www.linkedin.com/in/jerry-kang-6098ab19b/ <br>
+📫 Linkedin: https://www.linkedin.com/in/jerrykang1/ <br>
 
 😄 Pronouns: He/him
 
